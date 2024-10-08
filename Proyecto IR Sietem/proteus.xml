@@ -10,6 +10,9 @@
   <documents>
     <document id="ers"/>
     <document id="das"/>
+    <document id="5Y42HoJr8xkw"/>
   </documents>
-  <xsl-templates/>
+  <xsl-templates>
+    <xsl-template name="default"/>
+  </xsl-templates>
 </project>
