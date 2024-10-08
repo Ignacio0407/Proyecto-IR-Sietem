@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="3Mv8Le24CF3V" classes="organization" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Universidad de Sevilla - Escuela Técnica Superior de INgeniería Informática]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Universidad de Sevilla - Escuela Técnica Superior de Ingeniería Informática]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-08</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
